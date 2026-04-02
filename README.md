@@ -1,5 +1,14 @@
-# 💫 About Me:
- 🚀 About Me  <br><br>I’m a passionate Full-Stack Developer who enjoys turning ideas into real-world digital solutions. With a strong foundation in modern web technologies, I focus on building scalable, user-friendly, and performance-driven applications.  <br><br>I love participating in hackathons and fast-paced environments where creativity meets problem-solving. Recently, I secured 3rd place in a national-level hackathon by developing an AI-powered system to improve campus efficiency.  <br><br>Beyond development, I’m exploring Data Science and AI to create smarter, data-driven applications that make an impact. I believe in continuous learning, clean code, and building projects that solve meaningful problems.  <br><br>💡 Always curious. Always building. Always improving.
+# 💫 About Me
+
+🚀 I’m a passionate Full-Stack Developer who enjoys turning ideas into real-world digital solutions.  
+With a strong foundation in modern web technologies, I build scalable, user-friendly, and performance-driven applications.  
+
+💻 I love hackathons and fast-paced environments where creativity meets problem-solving.  
+🥉 Secured 3rd place in a national-level hackathon by building an AI-powered campus system.  
+
+📊 Exploring Data Science & AI to create smarter, impactful solutions.  
+
+💡 Always curious. Always building. Always improving.
 
 
 ## 🌐 Socials:
